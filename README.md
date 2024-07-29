@@ -1,7 +1,3 @@
-## Based on the Jupyter Notebook Link
-
-Here's a README file you can use for the GitHub repository linked, assuming the notebook is a sample machine learning submission template:
-
 **Title:** Sample Machine Learning Submission Template (Python)
 
 **Description:**
